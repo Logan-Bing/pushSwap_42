@@ -34,15 +34,16 @@ Possible output :\
                   pa\
                   pa\
                   ra\
-                  ra\
+                  ra
 
-To clean the project, run: `make clean` (<sub>Remove objects files</sub>)\
-                           `make fclean` (<sub>Remove objects files + executable</sub>)\
-                           `make re` (<sub>Full clean and reload</sub>)\
+To clean the project, run:  
+`make clean` (<sub>Remove objects files</sub>)\
+`make fclean` (<sub>Remove objects files + executable</sub>)\
+`make re` (<sub>Full clean and reload</sub>)
 
 
 ### Resources
 
 A super useful tool for testing a large number of combinations [complexity](https://github.com/SimonCROS/push_swap_tester).\
 A visualizer that allows you to better visualize your algorithm, which is very useful during development [visualizer](algorithmicttps://github.com/o-reo/push_swap_visualizer).\
-A great guide that helps us structure the project [guide push_swap](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).\
+A great guide that helps us structure the project [guide push_swap](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
